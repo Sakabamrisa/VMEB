@@ -16,4 +16,4 @@ To run the editing experiments, use the following command:
 python multimodal_edit.py [FUNC_NAME] [HOP_NUM]
 ```
 
-> **Note**: Please refer to `multimodal_edit.py` to check the available `[FUNC_NAME]` options.
+> **Note**: Please refer to `multimodal_edit.py` to check the available `[FUNC_NAME]` options. To train the model, please adjust hparams following the configurations in the appendix.
